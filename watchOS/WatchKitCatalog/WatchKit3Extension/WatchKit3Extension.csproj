@@ -58,7 +58,7 @@
     <OutputPath>bin\iPhone\Release</OutputPath>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <MtouchArch>ARMv7k</MtouchArch>
+    <MtouchArch>ARMv7k, ARM64_32</MtouchArch>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     <CodesignProvision></CodesignProvision>
     <CodesignKey>iPhone Developer</CodesignKey>
